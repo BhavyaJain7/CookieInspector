@@ -18,7 +18,7 @@ AI-Cookie-Inspector is a browser extension that scans, detects, and blocks malic
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GunjanPahwa/AI-Cookie-Inspector.git
+   git clone [https://github.com/BhavyaJain7/CookieInspector.git]
    cd AI-Cookie-Inspector
 
 Load in Browser
